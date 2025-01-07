@@ -1,2 +1,3 @@
-# headshots
-photo head shot vault
+# KXD Headshots  
+
+This repositroy contains professional style headshots and profile pictures. 
